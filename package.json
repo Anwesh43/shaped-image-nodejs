@@ -1,13 +1,29 @@
 {
   "name": "shaped-images-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creating shaped images and saving in your local filesystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "repository":{
+      "type":"git",
+      "url":"https://github.com/Anwesh43/shaped-image-nodejs"
+  },
+  "keywords":[
+  "image",
+  "base64",
+  "local file system",
+  "file",
+  "png",
+  "color filter",
+  "saving image",
+  "circle shaped images",
+  "local file system",
+  "triangular shaped images"
+],
   "dependencies": {
     "canvas": "^1.6.5",
     "image-saver-nodejs": "^1.0.3",
