@@ -2,6 +2,11 @@
 
 ### A nodejs library to create a shaped image from the original image. Currently only circular and triangular shape images are supported.
 
+### Installation
+
+```
+  npm install shaped-images-nodejs
+```
 ### Usage
 
 ```

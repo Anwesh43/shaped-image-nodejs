@@ -1,6 +1,6 @@
 {
   "name": "shaped-images-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creating shaped images and saving in your local filesystem",
   "main": "index.js",
   "scripts": {
